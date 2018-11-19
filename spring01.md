@@ -39,4 +39,27 @@ Spring MVC 框架
 下载资源包后解压：
 ![image](https://github.com/helloworldkitty/Spring/blob/master/%E5%9B%BE%E7%89%871.png)
 项目中引用libs目录下的jar包，第一个jar包都有3个文件（Jar源文件，帮助文档，源码文件）
-![image](https://github.com/helloworldkitty/Spring/blob/master/%E5%9B%BE%E7%89%871.png)
+![image](https://github.com/helloworldkitty/Spring/blob/master/%E5%9B%BE%E7%89%872.png)
+
+
+
+
+7、应用Spring
+1.导入所需要的jar包
+commons-logging-1.1.3.jar  这个包不属于Spring框架。
+spring-beans-4.3.10.RELEASE.jar
+spring-context-4.3.10.RELEASE.jar
+spring-core-4.3.10.RELEASE.jar
+spring-expression-4.3.10.RELEASE.jar
+2.添加xml 配置文件,文件名建议用applicationcontext.xml。
+
+
+
+
+
+
+
+
+
+
+
