@@ -237,8 +237,19 @@ public class OrderFactory {
 
 17、集合装配
   集合有：list ,set , map, Properties,如果要运用集合装配，必须引用util命名空间
+  ！[image](https://github.com/helloworldkitty/Spring/blob/master/%E5%9B%BE%E7%89%873.png)
+  
   
  
+ 
+ 
+ （ps：三大集合）
+ list ,set , map区别
+ 
+List和Set是存储单列数据的集合，Map是存储键值对这样的双列数据的集合；
+list 存储的数据是有顺序的，值允许重复。
+set 存储数据无顺序，值不可重复。
+map 存储数据是无序的，键不允许重复，但是值可以重复！！！
 
 
 
